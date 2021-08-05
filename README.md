@@ -9,3 +9,14 @@ Different types of data structures are suited to different kinds of applications
 
 [![Data Structures](https://img.youtube.com/vi/DuDz6B4cqVc/0.jpg)](http://www.youtube.com/watch?v=DuDz6B4cqVc)
 
+Some of Data Structures implemented are:
+- **Linked List**
+-  **Queue**
+-  **Stack**
+-  **Binary Search Tree**
+-  **Graph**
+-  **HashMap**
+-  **Min Heap**
+-  **Priority Queue**
+-  **Trie**
+
